@@ -1,0 +1,42 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,22pF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,141.5464,-105.2791,-90,top
+C2,0.47pF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,147.8964,-105.2576,-90,top
+C3,1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,135.4504,-105.2361,90,top
+C4,10uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,141.8004,-130.9116,-90,top
+C5,0.1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,145.8644,-130.8862,-90,top
+C6,20nF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,132.9264,-118.3005,0,top
+C7,10pF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,151.7064,-125.5274,-90,top
+C14,0F,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,125.7984,-99.1616,-90,top
+C16,10uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,180.6624,-84.4511,-90,top
+C17,0.1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,175.0744,-84.4081,90,top
+C18,1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,154.7544,-105.2791,-90,top
+D1,40V 500mA,D_SOD-123,133.0026,-122.0597,0,top
+D2,40V 500mA,D_SOD-123,133.028,-125.7173,0,top
+D3,LED,LED_0805_2012Metric,128.3384,-68.4276,0,top
+H1,6-pin_Headers,PinSocket_2x03_P2.54mm_Vertical,150.7704,-96.3676,90,top
+J1,Conn_Coaxial,BNC_Amphenol_B6252HB-NPP3G-50_Horizontal,131.6404,-147.1676,180,top
+L1,47uH,L_1210_3225Metric_Pad1.42x2.65mm_HandSolder,144.3769,-96.3676,180,top
+L2,2.5k Ohms,L_0805_2012Metric_Pad1.15x1.40mm_HandSolder,151.1984,-105.2451,-90,top
+LCD1,OLED,128x64OLED,148.1504,-62.0776,180,top
+R1,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,138.7524,-105.2736,90,top
+R2,226k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,144.8484,-105.2951,90,top
+R3,249,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,160.3424,-125.5649,-90,top
+R4,1k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,118.9404,-107.8191,90,top
+R5,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,156.0244,-125.5649,-90,top
+R6,100k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,132.901,-133.3881,0,top
+R7,100k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,132.9264,-129.3749,0,top
+R8,1k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,118.7626,-90.7028,-90,top
+R9,0k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,118.1784,-99.1991,90,top
+R16,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,124.7824,-90.8011,-90,top
+R20,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,124.5284,-107.5811,90,top
+R24,24.9k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,121.9884,-99.1991,90,top
+REF**,MountingHole_3.2mm_M3_DIN965,MountingHole_3.2mm_M3_DIN965,197.5104,-154.7876,0,top
+REF**,MountingHole_3.2mm_M3_DIN965,MountingHole_3.2mm_M3_DIN965,193.7004,-68.9776,0,top
+REF**,MountingHole_3.2mm_M3_DIN965,MountingHole_3.2mm_M3_DIN965,121.3104,-68.9776,0,top
+REF**,MountingHole_3.2mm_M3_DIN965,MountingHole_3.2mm_M3_DIN965,117.5004,-154.7876,0,top
+U1,LT3461ES6#TRPBF,TSOT-23-6,138.0669,-96.3676,0,top
+U2,LT1807IS8#PBF,SOIC-8_3.9x4.9mm_P1.27mm,144.0214,-120.1039,0,top
+U3,Arduino_Nano,Arduino_Cosmic_Watch,207.6625,-140.716,0,top
+U4,HC4050,SOIC-HC4050,172.2804,-96.6216,0,top
+U5,MicroSDCardSocket,microSD_HC_Hirose_DM3AT-SF-PEJM5,191.3304,-96.6216,90,top
+U6,3V3_Regulator,SOT-23,186.7584,-84.4296,90,top

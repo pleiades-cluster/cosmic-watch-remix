@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "SiPM")(type "Legacy")(uri "C:/Users/CArta/Documents/GitHub/MICROFJ-60035-TSV-TR1/KiCad/MICROFJ-60035-TSV-TR1.lib")(options "")(descr ""))
+  (lib (name "BuckBoost")(type "Legacy")(uri "C:/Users/CArta/Documents/GitHub/Extra Libraries/LT3461AES6#TRMPBF/KiCad/LT3461AES6#TRMPBF.lib")(options "")(descr ""))
+)

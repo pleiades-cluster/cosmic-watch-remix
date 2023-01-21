@@ -2421,7 +2421,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8c8f7f6f-f151-43d0-b7c2-857bd66addff)
     (property "Reference" "R6" (id 0) (at 47.625 48.6242 90))
-    (property "Value" "280K" (id 1) (at 47.625 51.1611 90))
+    (property "Value" "220K" (id 1) (at 47.625 51.1611 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 47.625 51.562 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2438,7 +2438,7 @@
     (property "Reference" "C9" (id 0) (at 155.956 95.6853 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "20nF" (id 1) (at 155.956 98.2222 0)
+    (property "Value" "22nF" (id 1) (at 155.956 98.2222 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 154.0002 100.33 0)
@@ -2865,7 +2865,7 @@
       (reference "C8") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/8d129ac0-21e8-4168-b5e8-555f7b81464d"
-      (reference "C9") (unit 1) (value "20nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C9") (unit 1) (value "22nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/10789bbb-c1d1-4df2-bd22-ae0dfea0e3cd"
       (reference "D1") (unit 1) (value "DIODE") (footprint "Diode_SMD:D_SOD-323")
@@ -2904,7 +2904,7 @@
       (reference "R5") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/8c8f7f6f-f151-43d0-b7c2-857bd66addff"
-      (reference "R6") (unit 1) (value "280K") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R6") (unit 1) (value "220K") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/b047d4a8-77a5-43d5-bbbe-e454ef0e254d"
       (reference "R7") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0603_1608Metric")

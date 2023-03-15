@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 49,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
@@ -37,7 +37,6 @@
       9,
       10,
       11,
-      12,
       13,
       14,
       15,
@@ -66,7 +65,7 @@
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "cosmic_watch_remix_V1.kicad_prl",
+    "filename": "cosmic_watch_remix_V1a.kicad_prl",
     "version": 3
   },
   "project": {

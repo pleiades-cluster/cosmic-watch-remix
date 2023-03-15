@@ -62,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "ffdffff_ffffffff",
+    "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "cosmic_watch_remix_V1.kicad_prl",
+    "filename": "simulation_project.kicad_prl",
     "version": 3
   },
   "project": {
